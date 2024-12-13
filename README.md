@@ -63,7 +63,7 @@ Developed a Faster R-CNN model to accurately detect and classify LEGO pieces fro
 - Fine-tuned hyperparameters to achieve optimal accuracy.
 
 #### Repository:
-[Link to LEGO Piece Detection Project](#) (Replace with actual link)
+**[Link to LEGO Piece Detection Project](https://ashutosh1919.github.io/)**
 
 #### Key Code Snippets:
 ```python
